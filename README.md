@@ -11,6 +11,6 @@ Lately, I've been building modern CMS workflows, AI-assisted tools, and scalable
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=frkntmbs&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=30363D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frkntmbs&theme=highcontrast&hide_border=true&mode=weekly&card_width=820&card_height=200&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=30363D)](https://git.io/streak-stats)
 
 </div>
