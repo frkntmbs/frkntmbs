@@ -13,8 +13,4 @@ Lately, I've been building modern CMS workflows, AI-assisted tools, and scalable
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=frkntmbs&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=30363D)](https://git.io/streak-stats)
 
-<br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Software+Developer;Next.js+%26+React+Engineer;.NET+Microservices;Open+Source+Builder)](https://git.io/typing-svg)
-
 </div>
